@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    color:     rgb(0, 0, 0);
+}
+
+.sertifikat img{
+    width:300px;
+    text-align: center;
+
+}
+
+@media screen and (max-width:575.68px){
+    .bio{
+        width: 100%;
+    }
+
+    .sertifikaSt img{
+        width: 200px;
+    }
+}
